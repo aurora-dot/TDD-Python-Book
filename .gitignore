@@ -2,3 +2,4 @@
 **/gekodriver.log
 **/__pycache__
 *.pyc
+part-1/geckodriver.log
