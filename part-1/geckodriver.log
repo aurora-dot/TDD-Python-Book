@@ -1,0 +1,21 @@
+1625571243569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAWgQBl/search.json.mozlz4", (void 0)))
+1625571244655	Marionette	INFO	Listening on port 36137
+1625571244754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625571284202	Marionette	INFO	Stopped listening on port 36137
+1625571480677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLRgh37/search.json.mozlz4", (void 0)))
+1625571481545	Marionette	INFO	Listening on port 34499
+1625571481558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625571489397	Marionette	INFO	Stopped listening on port 34499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625571497034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE9YFS0/search.json.mozlz4", (void 0)))
+1625571497867	Marionette	INFO	Listening on port 34251
+1625571497903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625571504129	Marionette	INFO	Stopped listening on port 34251
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
