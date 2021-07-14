@@ -4,3 +4,4 @@
 *.pyc
 part-2/static
 part-3/static
+*/.env
